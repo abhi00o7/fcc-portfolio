@@ -1,4 +1,4 @@
-// sample script to add space between letters
+// sample script to add space between letters and add span tag replacing the letters
 
 
 function spacer(word){
@@ -6,10 +6,10 @@ function spacer(word){
     return word
                 .split('')
                 .join(' ')
-                .splice(0, 0, '<span>')
-                .replace(regex, "</span> <span>")
+                .replace(regex, "</span><span>")
 }
 
 let word = "this is sparta"
 
 console.log(spacer(word));
+

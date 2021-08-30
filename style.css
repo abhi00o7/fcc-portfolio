@@ -228,23 +228,23 @@ a {
 }
 .hover:hover .welcome-section header span:nth-child(16) {
     color: var(--fifthteenth);
-    transition: 1.5s;
+    transition: 1.6s;
 }
 .hover:hover .welcome-section header span:nth-child(17) {
     color: var(--fifthteenth);
-    transition: 1.5s;
+    transition: 1.7s;
 }
 .hover:hover .welcome-section header span:nth-child(18) {
     color: var(--fifthteenth);
-    transition: 1.5s;
+    transition: 1.8s;
 }
 .hover:hover .welcome-section header span:nth-child(19) {
     color: var(--fifthteenth);
-    transition: 1.5s;
+    transition: 1.9s;
 }
 .hover:hover .welcome-section header span:nth-child(20) {
     color: var(--fifthteenth);
-    transition: 1.5s;
+    transition: 2.0s;
 }
 
 .welcome-section {
@@ -362,35 +362,35 @@ header {
 
 .hover:hover .welcome-paragraph span:nth-child(17) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 4.2s;
 }
 
 .hover:hover .welcome-paragraph span:nth-child(18) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 4.4s;
 }
 
 .hover:hover .welcome-paragraph span:nth-child(19) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 4.6s;
 }
 
 .hover:hover .welcome-paragraph span:nth-child(20) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 4.8s;
 }
 
 .hover:hover .welcome-paragraph span:nth-child(21) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 5s;
 }
 .hover:hover .welcome-paragraph span:nth-child(22) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 5.2s;
 }
 .hover:hover .welcome-paragraph span:nth-child(23) {
     color: var(--sixth);
-    transition: color 4s;
+    transition: color 5.4s;
 }
 
 /*-----------------------------------------PROJECT SECTION----------------------------------------------------*/
