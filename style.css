@@ -40,7 +40,7 @@
 }
 
 :root {
-    --main-color: #fff;
+    --main-color: #f4f4f4;
     --spawn: .8s;
     --background: linear-gradient(25deg, rgba(255, 255, 255, .1), rgb(0, 0, 0));
     --first: rgb(255, 80, 0);
@@ -317,7 +317,8 @@ header {
     font-weight: 100;
     font-style: italic;
     text-align: center;
-    transition: var(--spawn);
+    /* transition: var(--spawn); */
+    transition: 2.0s;
 }
 
 .hover:hover .welcome-paragraph span:first-child {
