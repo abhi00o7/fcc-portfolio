@@ -56,10 +56,13 @@
     --eleventh: rgb(255, 130, 0);
     --twelfth: rgb(255, 135, 0);
     --thirteenth: rgb(255, 140, 0);
-    --fourteenth: rgb(255, 145, 27);
-    --fifthteenth: rgb(255, 150, 27);
-    --sixthteenth: rgb(255, 155, 27);
-    --seventhteenth: rgb(255, 160, 27);
+    --fourteenth: rgb(255, 145, 0);
+    --fifthteenth: rgb(255, 150, 0);
+    --sixthteenth: rgb(255, 155, 0);
+    --seventhteenth: rgb(255, 160,0);
+    --eighteenth: rgb(255, 165, 0);
+    --nineteenth: rgb(255, 170,0);
+    --twentieth: rgb(255, 175, 0);
 }
 
 html {
@@ -265,22 +268,22 @@ a {
 }
 
 .hover:hover .welcome-section header span:nth-child(17) {
-    color: var(--fifthteenth);
+    color: var(--sixthteenth);
     transition: 1.7s;
 }
 
 .hover:hover .welcome-section header span:nth-child(18) {
-    color: var(--fifthteenth);
+    color: var(--seventhteenth);
     transition: 1.8s;
 }
 
 .hover:hover .welcome-section header span:nth-child(19) {
-    color: var(--fifthteenth);
+    color: var(--eighteenth);
     transition: 1.9s;
 }
 
 .hover:hover .welcome-section header span:nth-child(20) {
-    color: var(--fifthteenth);
+    color: var(--nineteenth);
     transition: 2.0s;
 }
 
