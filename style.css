@@ -34,8 +34,8 @@
     height: 100%;
     background-color: radial-gradient(#000000, #ffffff);
     background-image: url("");
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: 50% 50%;
 }
 
@@ -263,27 +263,27 @@ a {
 }
 
 .hover:hover .welcome-section header span:nth-child(16) {
-    color: var(--fifthteenth);
+    color: var(--sixthteenth);
     transition: 1.6s;
 }
 
 .hover:hover .welcome-section header span:nth-child(17) {
-    color: var(--sixthteenth);
+    color: var(--seventhteenth);
     transition: 1.7s;
 }
 
 .hover:hover .welcome-section header span:nth-child(18) {
-    color: var(--seventhteenth);
+    color: var(--eighteenth);
     transition: 1.8s;
 }
 
 .hover:hover .welcome-section header span:nth-child(19) {
-    color: var(--eighteenth);
+    color: var(--nineteenth);
     transition: 1.9s;
 }
 
 .hover:hover .welcome-section header span:nth-child(20) {
-    color: var(--nineteenth);
+    color: var(--twentieth);
     transition: 2.0s;
 }
 
