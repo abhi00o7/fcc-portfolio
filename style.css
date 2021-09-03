@@ -34,8 +34,8 @@
     height: 100%;
     background-color: radial-gradient(#000000, #ffffff);
     background-image: url("");
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: 50% 50%;
 }
 
@@ -286,7 +286,7 @@ a {
 
 .welcome-section {
     margin-top: 50px;
-    padding: 50px;
+    padding:  0px;
     display: flex;
     flex-direction: column;
     justify-content: center;
